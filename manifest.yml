@@ -1,0 +1,5 @@
+---
+applications:
+- name:    frisby
+  host:    frisby
+  memory:  128M
